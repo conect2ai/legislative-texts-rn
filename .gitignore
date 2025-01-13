@@ -1,0 +1,7 @@
+__pycache__
+data/*
+!data/readability_public_data.csv
+models/*
+!models/.gitkeep
+hub
+.env
