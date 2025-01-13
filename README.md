@@ -8,7 +8,7 @@
 
 # Exploring Legislative Texts in Brazilian Portuguese: Readability Analysis and Knowledge Graph Generation Using Llama 3.2
 
-### ✍🏾Authors: [Gisliany Alves](https://github.com/gisliany), [Breno Santana Santos](https://github.com/breno-madruga), [Marianne Diniz](https://github.com/MarianneDiniz), [Ivanovitch Silva](https://github.com/ivanovitchm)
+### ✍🏾 Authors: [Gisliany Alves](https://github.com/gisliany), [Breno Santana Santos](https://github.com/breno-madruga), [Marianne Diniz](https://github.com/MarianneDiniz), [Ivanovitch Silva](https://github.com/ivanovitchm)
 
 ## 1. Abstract/Overview
 
@@ -17,7 +17,7 @@ Legislative documents are fundamental pillars of democratic societies, defining 
 ## 2. Artifacts
 
 The results can be found in the notebook:
-:notebook: #01 Analyzing Legislative Data
+📕 #01 Analyzing Legislative Data
 
 The remainder of this repository holds the folders:
 - `data`: This folder serves as the destination for downloading the dataset used in the project. It also contains an intermediate dataset that includes readability metrics.
