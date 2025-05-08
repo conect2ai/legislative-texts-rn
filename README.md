@@ -6,7 +6,7 @@
 
 &nbsp;
 
-# Exploring Legislative Texts in Brazilian Portuguese: Readability Analysis and Knowledge Graph Generation Using Llama 3.2
+# Exploring Legislative Textual Data in Brazilian Portuguese: Readability Analysis and Knowledge Graph Generation
 
 ### ✍🏾 Authors: [Gisliany Alves](https://github.com/gisliany), [Breno Santana Santos](https://github.com/breno-madruga), [Marianne Diniz](https://github.com/MarianneDiniz), [Ivanovitch Silva](https://github.com/ivanovitchm)
 
